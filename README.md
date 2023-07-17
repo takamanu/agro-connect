@@ -15,9 +15,10 @@ Supply chain app of farmer. The game-changer that brings farmers, suppliers, and
 1. Find Supplies and Demand
 2. Create Supplies and Demand
 3. Find Potential Supplies in Maps
-4. Logistic Recommendation (COMING SOON)
-5. Transaction Flow (COMING SOON)
-6. Predict future potential supplies and demand in Maps (COMING SOON)
+4. Predict future potential supplies and demand in Maps
+5. Logistic Recommendation
+6. Transaction Flow
+
 
 ## Installation
 
